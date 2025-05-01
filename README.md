@@ -2,14 +2,14 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=6FC7E1&height=300&section=header&text=magnoria%20gitgub&fontSize=90&fontColor=FFFFFF" />
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 ### 👀 코드 세계를 탐험하는 개발자입니다 🛠️
 
 다양한 코드들을 보고싶습니다.. 흥미로운 코드들을 분석하고 이해하는 것이 즐거워요, 이를 바탕으로 저만의 결과물을 만들어내고 싶어요!! 🔥
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
 <h3 align="center">✨ Studying ✨</h3>
@@ -22,7 +22,7 @@
 </div>
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
 <h3 align="center">🛠 Tools 🛠</h3>
@@ -36,7 +36,7 @@
 
 </div>
 
-<br><br><br><br><br>
+<br><br><br>
 
 <div align="center">
 
