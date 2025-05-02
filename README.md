@@ -1,5 +1,5 @@
 ## 안녕하세요? 👋
-<img src="https://capsule-render.vercel.app/api?type=slice&color=6FC7E1&height=300&section=header&text=magnoria%20gitgub&fontSize=90&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=6FC7E1&height=300&section=header&text=magnoria%20gitgub&fontSize=90&fontColor=000000" />
 
 
 <br><br><br>
