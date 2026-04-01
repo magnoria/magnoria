@@ -12,7 +12,7 @@
 <br><br><br>
 
 
-<h3 align="center" src="https://www.notion.so/151acedd62ff803a90d3dbf771b500cd">✨ Studying ✨</h3>
+<h3 align="center">✨ Studying ✨</h3>
 <div align="center">
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
