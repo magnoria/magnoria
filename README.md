@@ -38,10 +38,10 @@
 
 <br><br><br>
 
-<div align="center">
+<!-- <div align="center">
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magnoria&layout=compact&bg_color=000000&text_color=FFFFFF)
-</div>
+</div> -->
 
 
 <!--
