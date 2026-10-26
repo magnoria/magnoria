@@ -1,60 +1,52 @@
-## 안녕하세요? 👋
-<img src="https://capsule-render.vercel.app/api?type=slice&color=6FC7E1&height=300&section=header&text=magnoria%20gitgub&fontSize=60&fontColor=000000" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=6FC7E1&height=220&section=header&text=Han%20Sangbeom&fontSize=56&fontColor=000000&desc=Backend%20Developer&descAlignY=72" />
 
+### 안녕하세요, 한상범입니다 👋
 
-<br><br><br>
+문제를 끝까지 해결하고, 안정적으로 동작하는 기능을 책임감 있게 완성하는 **백엔드 개발자**입니다.
+인증·인가와 배포 과정에서 만난 문제(CORS, 토큰 검증 등)를 직접 해결하며 서비스 전체 흐름을 이해해 가고 있습니다.
 
-### 🌛🌜
+- 🔭 Spring Security Filter 기반 JWT 인증 구조와 Refresh Token 적용 중
+- 🌱 테스트 코드 작성, 배포·운영(AWS) 학습 중
+- 📫 sidaumv@gmail.com · [Notion 포트폴리오](https://www.notion.so/151acedd62ff803a90d3dbf771b500cd)
 
-수만가지의 나무가지에서 하나의 나무가지를 선택했고 아스라히 사라지네, 세상은 돌아가고 다른 나무가지를 살며시 잡으며 또다른 가지의 끝을 바라보네
+<br>
 
+### 🛠 Tech Stack
 
-<br><br><br>
+**Main**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-555555?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<h3 align="center">✨ Studying ✨</h3>
-<div align="center">
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />&nbsp;
-  <img src="https://img.shields.io/badge/JPA-555555?style=for-the-badge" alt="JPA" />&nbsp; <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />&nbsp;
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />&nbsp;
-</div>
+**Also used**
 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-<br><br><br>
+<br>
 
+### 📌 Projects
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />&nbsp;
-  <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />&nbsp;
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />&nbsp;
+| 프로젝트 | 설명 | 기술 | 링크 |
+|---|---|---|---|
+| **JWT 인증 게시판** | 로그인 시 JWT 발급, 작성자만 수정·삭제 가능한 게시판. Vercel·Render로 배포 | Spring Boot, Spring Security, JPA, MySQL, React | [Demo](https://boardspring.vercel.app/) · [Repo](https://github.com/magnoria/저장소이름) |
+| **DevConnect** (팀, 5명) | 프리랜서 개발자와 기업을 연결하는 중개 플랫폼. 기업 로그인·목록 API, JWT 발급 및 Redis 저장 담당 | Spring Boot, MySQL, Redis, Flutter | [Repo](https://github.com/magnoria/저장소이름) |
+| **호텔 관리 플랫폼** (팀) | 지점별 객실·예약·직원·매출을 한눈에 보는 관리자 시스템. 메인 대시보드와 지점 관리 담당 | Spring Boot, MySQL, React | [Repo](https://github.com/magnoria/저장소이름) |
 
+<br>
 
-</div>
+### 🔧 Troubleshooting
 
-<br><br><br>
+- **CORS preflight 차단**: Vercel과 Render의 도메인이 달라 OPTIONS 요청이 막힘 → `allowedOrigins`·`allowedMethods` 설정과 Security `cors()` 활성화로 해결
+- **작성자 버튼 미표시**: localStorage 사용자 정보와 게시글 작성자 필드명 불일치 → `userId` 기준으로 구조를 통일해 해결
 
-<!-- <div align="center">
+<br>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magnoria&layout=compact&bg_color=000000&text_color=FFFFFF)
-</div> -->
-
-
-<!--
-**magnoria/magnoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>수만 가지의 나뭇가지에서 하나를 골라 걸어가고 있습니다 🌙</sub>
