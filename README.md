@@ -7,7 +7,7 @@
 
 - 🔭 Spring Security Filter 기반 JWT 인증 구조와 Refresh Token 적용 중
 - 🌱 테스트 코드 작성, 배포·운영(AWS) 학습 중
-- 📫 sidaumv@gmail.com · [Notion 포트폴리오](https://www.notion.so/151acedd62ff803a90d3dbf771b500cd)
+- 📫 sidaumv@gmail.com · [Notion](https://www.notion.so/151acedd62ff803a90d3dbf771b500cd)
 
 <br>
 
