@@ -37,7 +37,7 @@
 |---|---|---|---|
 | **JWT 인증 게시판** | 로그인 시 JWT 발급, 작성자만 수정·삭제 가능한 게시판. Vercel·Render로 배포 | Spring Boot, Spring Security, JPA, MySQL, React | [Demo](https://boardspring.vercel.app/) · [Repo](https://github.com/magnoria/저장소이름) |
 | **DevConnect** (팀, 5명) | 프리랜서 개발자와 기업을 연결하는 중개 플랫폼. 기업 로그인·목록 API, JWT 발급 및 Redis 저장 담당 | Spring Boot, MySQL, Redis, Flutter | [Repo](https://github.com/magnoria/저장소이름) |
-| **호텔 관리 플랫폼** (팀) | 지점별 객실·예약·직원·매출을 한눈에 보는 관리자 시스템. 메인 대시보드와 지점 관리 담당 | Spring Boot, MySQL, React | [Repo]https://github.com/magnoria/mans_project |
+| **호텔 관리 플랫폼** (팀) | 지점별 객실·예약·직원·매출을 한눈에 보는 관리자 시스템. 메인 대시보드와 지점 관리 담당 | Spring Boot, MySQL, React | [Repo](https://github.com/magnoria/mans_project)|
 
 <br>
 
